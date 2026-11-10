@@ -1,6 +1,6 @@
 # Olá, sou o Guilherme 👋
 
-**Engenheiro civil de estruturas que desenvolve software para engenharia.**
+**Engenheiro civil especialista em estruturas que desenvolve software para engenharia.**
 
 Atualmente construo o [GNApp](https://gnapp.com.br), uma plataforma de aplicativos desktop para cálculo e dimensionamento estrutural (concreto armado, protendido e pré-moldados), além de automações para o Tekla Structures.
 
